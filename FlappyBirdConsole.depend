@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1734360592 source:d:\projetos\flappybirdconsole\main.cpp
+	<iostream>
+	<fcntl.h>
+	<io.h>
+	"game.hpp"
+
+1734368447 source:d:\projetos\flappybirdconsole\console.cpp
+	<iostream>
+	<windows.h>
+	"console.hpp"
+
+1734362307 d:\projetos\flappybirdconsole\console.hpp
+
+1734369996 source:d:\projetos\flappybirdconsole\game.cpp
+	<iostream>
+	<conio.h>
+	<chrono>
+	<thread>
+	<string>
+	<vector>
+	<algorithm>
+	"game.hpp"
+	"console.hpp"
+
+1734360576 d:\projetos\flappybirdconsole\game.hpp
+
+1734741838 source:c:\flappybirdconsole\console.cpp
+	<iostream>
+	<windows.h>
+	"console.hpp"
+
+1734362307 c:\flappybirdconsole\console.hpp
+
+1734486746 source:c:\flappybirdconsole\main.cpp
+	<iostream>
+	"game.hpp"
+
+1734360576 c:\flappybirdconsole\game.hpp
+
+1735288050 source:c:\flappybirdconsole\game.cpp
+	<iostream>
+	<conio.h>
+	<chrono>
+	<thread>
+	<string>
+	<vector>
+	<algorithm>
+	"game.hpp"
+	"console.hpp"
+
